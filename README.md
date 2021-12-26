@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-My name is Mathias Scroccaro Costa. I am an electronics engineer with master degrees in IoT field.
+My name is Mathias Scroccaro Costa. I am an electronics engineer with master degree in Internet of Things.
 
 - :factory_worker: I'm currently working on Eldorado Research Institute, building a backend REST application for data collected in a WiSUN IoT network;
 - :snake: I'm currently learning more about Python backend REST technology with Flask, SQLalchemy, postgres and dockerized all this stuff;
