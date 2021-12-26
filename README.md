@@ -1,10 +1,20 @@
-### Hi there :wave:
+### Hi, there! My name is Mathias Scroccaro Costa :wave:
 
-My name is Mathias Scroccaro Costa. I am an electronics engineer with master degree in Internet of Things.
+I am an electronics engineer with master degree in Internet of Things.
 
-- :factory_worker: I'm currently working on Eldorado Research Institute, building a backend REST application for data collected in a WiSUN IoT network;
-- :snake: I'm currently learning more about Python backend REST technology with Flask, SQLalchemy, postgres and dockerized all this stuff;
-- :crab: I'm trying to understand the mistery of Rust programming language; 
+- :factory_worker: I'm currently working on *Eldorado Research Institute*, building a backend REST application for data collected in a **WiSUN IoT network**;
+- :snake: I'm currently learning more about **Python** backend REST technology with **Flask, SQLalchemy, postgres and dockerized** all this stuff;
+- :crab: I'm trying to understand the mistery of **Rust** programming language; 
+
+Some of my skills:
+
+- :star::star::star::star::star: Linux
+- :star::star::star::star::star: Python
+- :star::star::star::star::star: C
+- :star::star::star::star::star: Kicad
+- :star::star::star::star: PyQt
+- :star::star::star: C++
+- :star::star: Docker
 
 
 <!--
