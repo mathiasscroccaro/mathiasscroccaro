@@ -13,6 +13,8 @@ Some of my skills:
 - :star::star::star::star::star: C
 - :star::star::star::star::star: Kicad
 - :star::star::star::star: PyQt
+- :star::star::star: Git
+- :star::star::star: Vim
 - :star::star::star: C++
 - :star::star: Docker
 
