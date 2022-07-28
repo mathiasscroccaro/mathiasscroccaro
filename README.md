@@ -1,6 +1,6 @@
 ### Hi, there! My name is Mathias Scroccaro Costa :wave:
 
-I am an electronics engineer with master degree in Internet of Things.
+Working as a Software Engineer, but I'm also Electronics Engineer with master degree in Internet of Things.
 
 - :snake: I'm currently working at *DevGrid*. Through REST APIs written in Python, I surface companies data for risk analysis.
 
